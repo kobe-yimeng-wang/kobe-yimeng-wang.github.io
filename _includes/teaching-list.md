@@ -24,7 +24,7 @@ Data 100 (Principles and Techniques of Data Science): [Fall 2019](https://ds100.
 
 CS 70 (Discrete Mathematics and Probability Theory): [Summer 2019](https://www.su19.eecs70.org/)
 
-# Tutor / Readers for courses at UC Berkeley #
+### Tutor / Readers for courses at UC Berkeley ###
 
 CS 172 (Computability and Complexity)
 
