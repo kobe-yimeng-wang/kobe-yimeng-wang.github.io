@@ -12,10 +12,11 @@ nav_order: 2
   Shachar Lovett, Raghu Meka, and Yimeng Wang.  
   *Preprint, 2026.*
 
-- **Algorithms for robust linear models against strong adversarial corruptions.**
-  Yimeng Wang (advised by Prof. Prasad Raghavendra)
-  *Masters thesis, 2022*
+- **Algorithms for robust linear models against strong adversarial corruptions.**  
+  Yimeng Wang (advised by Prof. Prasad Raghavendra).  
+   *Masters thesis, 2022*
 
-- **Lower Bounds on Lattice Triangulations.**
-  Yimeng Wang (advised by Prof. Alistair Sinclair)
-  *EECS Honors thesis, 2021*
+- **Lower Bounds on Lattice Triangulations.**  
+  Yimeng Wang (advised by Prof. Alistair Sinclair)  
+   *EECS Honors thesis, 2021* 
+
