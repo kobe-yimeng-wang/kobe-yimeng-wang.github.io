@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Computer Science at UCLA
 
 profile:
   align: right
