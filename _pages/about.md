@@ -4,7 +4,10 @@ title: about
 permalink: /
 subtitle: PhD Candidate in Computer Science at UCLA
 
-profile: false
+profile:
+  align: right
+  image: yimeng_headshot.jpg
+  image_circular: false
 
 selected_papers: false
 social: false
