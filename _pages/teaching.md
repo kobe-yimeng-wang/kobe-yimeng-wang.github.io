@@ -1,15 +1,12 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Teaching and course materials
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Summer 2026: FinDS 2026 Linear Algebra (co-instructor) @ UCLA [notes]()
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+Spring 2026: [CS 260B (Algorithmic Machine Learning)](https://hackmd.io/@raghum/algoml26) @ UCLA
