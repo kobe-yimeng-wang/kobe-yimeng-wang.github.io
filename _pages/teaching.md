@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
-description: Teaching and course materials
+description: 
 nav: true
 nav_order: 3
 ---
@@ -14,3 +14,5 @@ Spring 2026: [CS 260B (Algorithmic Machine Learning)](https://hackmd.io/@raghum/
 Winter 2026: Student Coding Theory Seminar (Organizer) @ UCLA [notes](https://drive.google.com/drive/folders/1Sf9VwCiJxiLn1PNrD71ecDUfioqN7acc?usp=sharing)
 
 Fall 2025: [CS 181 (Introduction to Theory of Computing)](https://hackmd.io/@raghum/intrototcs25) (TA) @ UCLA
+
+Spring 2025: [CS 260B (Algorithmic Machine Learning)](https://hackmd.io/@raghum/algoml25) (TA) @ UCLA [notes]
