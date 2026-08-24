@@ -27,11 +27,11 @@
 /* Custom accent colors */
 
 :root {
-  --global-theme-color: #0057b8;
-  --global-hover-color: #003f87;
+  --global-theme-color: #003366;
+  --global-hover-color: #001f3f;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #6cb6ff;
-  --global-hover-color: #93c5fd;
+  --global-theme-color: #73a9e6;
+  --global-hover-color: #a7ccf5;
 }
