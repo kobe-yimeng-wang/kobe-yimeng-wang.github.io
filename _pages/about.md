@@ -27,3 +27,9 @@ I am broadly interested in theoretical computer science. My main research intere
 ## Publications
 
 {% include publication-list.md %}
+
+<br>
+<br>
+## Teaching
+
+{% include teaching-list.md %}
