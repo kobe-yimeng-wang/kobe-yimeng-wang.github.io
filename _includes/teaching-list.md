@@ -7,7 +7,8 @@ Winter 2026: Student Coding Theory Seminar (Organizer) @ UCLA [notes](https://dr
 
 Fall 2025: [CS 181 (Introduction to Theory of Computing)](https://hackmd.io/@raghum/intrototcs25) (TA) @ UCLA
 
-Spring 2025: [CS 260B (Algorithmic Machine Learning)](https://hackmd.io/@raghum/algoml25) (TA) @ UCLA [notes]({{ '/assets/pdf/CS_260B_sp25.pdf' | relative_url }}) 
+Spring 2025: [CS 260B (Algorithmic Machine Learning)](https://hackmd.io/@raghum/algoml25) (TA) @ UCLA - **[notes]({{ '/assets/pdf/CS_260B_sp25.pdf' | relative_url }}).**  
+
 
 Fall 2024: [CS 181 (Introduction to Theory of Computing)](https://hackmd.io/@raghum/intrototcs24) (TA) @ UCLA
 
