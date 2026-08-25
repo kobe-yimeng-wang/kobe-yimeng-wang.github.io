@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <p style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 0.4rem;">
-      Photograph by dear friend
+      Photo credit to dear friend
       <a href="https://paullou.me/" target="_blank" rel="noopener noreferrer">Paul Lou</a>.
     </p>
 
