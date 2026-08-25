@@ -7,6 +7,10 @@ profile:
   align: right
   image: yimeng_headshot.jpg
   image_circular: false
+  more_info: >
+    <p style="text-align: center; font-size: 0.85rem; opacity: 0.7; margin-top: 0.4rem;">
+      Photo credit: dear friend [Paul Lou](https://paullou.me/)
+    </p>
 
 selected_papers: false
 social: false
