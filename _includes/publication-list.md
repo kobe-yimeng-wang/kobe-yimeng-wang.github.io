@@ -6,7 +6,9 @@ Number-on-Forehead Communication Complexity](https://eccc.weizmann.ac.il/report/
   *Preprint, 2026.*
 
 - **[Moonflowers and code sparsification](https://arxiv.org/pdf/2605.08676).**
-  Shachar Lovett, Raghu Meka, and Yimeng Wang.  
+  
+  Shachar Lovett, Raghu Meka, and Yimeng Wang.
+  
   *Preprint, 2026.*
 
 - **[Algorithms for robust linear models against strong adversarial corruptions]({{ '/assets/pdf/Yimeng_Masters_Thesis.pdf' | relative_url }}).**  
