@@ -1,5 +1,6 @@
 - **[An Explicit Optimal Separation of BPP from NP in
 Number-on-Forehead Communication Complexity](https://eccc.weizmann.ac.il/report/2026/187/).**
+
   Haoyu Wang, Yimeng Wang, and Pei Wu
   *Preprint, 2026.*
 
