@@ -1,4 +1,4 @@
-- **The weighted union-set conjecture is false.**\
+- **[The weighted union-set conjecture is false](https://arxiv.org/abs/2609.25101).**\
   Yimeng Wang\
   *Preprint, 2026.*
 
