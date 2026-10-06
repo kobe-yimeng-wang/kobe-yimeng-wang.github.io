@@ -1,3 +1,7 @@
+- **Lower Bounds for Parallel Diffusion Sampling**\
+  Yiwen Kou, Yimeng Wang\
+  *Preprint, 2026*
+
 - **[The weighted union-set conjecture is false](https://arxiv.org/abs/2609.25101).**\
   Yimeng Wang\
   *Preprint, 2026.*
