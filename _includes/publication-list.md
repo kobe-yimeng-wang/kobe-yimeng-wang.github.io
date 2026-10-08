@@ -1,4 +1,4 @@
-- **Lower Bounds for Parallel Diffusion Sampling**\
+- **[Lower Bounds for Parallel Diffusion Sampling](https://arxiv.org/abs/2610.09166)**\
   Yiwen Kou, Yimeng Wang\
   *Preprint, 2026*
 
